@@ -1,1 +1,10 @@
-
+{
+  "homepage": "https://github.com/halfpastfouram/blockchain/releases",
+  "1.16.5": {
+    "0.0.1": "WIP, do not use"
+  },
+  "promos": {
+    "1.16.5-latest": "0.0.1",
+    "1.16.5-recommended": "0.0.1"
+  }
+}
